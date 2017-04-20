@@ -1,0 +1,18 @@
+{
+  "name": "proto",
+  "version": "1.0.0",
+  "description": "proto",
+  "main": "proto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "proto"
+  },
+  "author": "rodrigo",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
